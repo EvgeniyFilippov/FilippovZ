@@ -22,8 +22,8 @@ Here are some ideas to get you started:
     <img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" />
-    <img width="14%" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Asterisk_logo.svg" />
-    <img width="15%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" />
+    <img width="13%" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Asterisk_logo.svg" />
+    <img width="13%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" />
     <img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" />
 </p>
 
